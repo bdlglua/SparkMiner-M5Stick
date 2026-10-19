@@ -17,7 +17,7 @@
 #include <soc/soc_caps.h>  // For SOC_CPU_CORES_NUM
 
 #include <board_config.h>
-#include "mining/miner.h"
+#include "config/mining/miner.h"
 #include "stratum/stratum_types.h"
 #include "stratum/stratum.h"
 #include "config/nvs_config.h"
