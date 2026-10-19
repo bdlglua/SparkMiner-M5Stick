@@ -4,6 +4,8 @@
 
 <img src="images/1767589853452.jpg" alt="SparkMiner Display" width="575">
 
+<img src="images/unnamed.jpg" alt="SparkMiner Display1" width="575">
+
 SparkMiner is optimized firmware for ESP32-based boards with displays, delivering **~1+ MH/s** (pool-reported) using hardware-accelerated SHA-256 and pipelined assembly mining. Supports both ESP32 "Cheap Yellow Display" (CYD) boards and ESP32-S3 variants.
 
 > **Solo Mining Disclaimer:** Solo mining on an ESP32 is a lottery. The odds of finding a block are astronomically low (~1 in 10^20 per hash at current difficulty). This project is for education, fun, and supporting network decentralization - not profit.
